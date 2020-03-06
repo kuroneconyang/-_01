@@ -1,0 +1,11 @@
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.exe
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.deps.json
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.runtimeconfig.json
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.runtimeconfig.dev.json
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.dll
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\bin\Debug\netcoreapp3.0\Sort.pdb
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\obj\Debug\netcoreapp3.0\Sort.csprojAssemblyReference.cache
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\obj\Debug\netcoreapp3.0\Sort.AssemblyInfoInputs.cache
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\obj\Debug\netcoreapp3.0\Sort.AssemblyInfo.cs
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\obj\Debug\netcoreapp3.0\Sort.dll
+C:\Users\외부용\Desktop\개발\200111\숙제\배열\Sort\Sort\obj\Debug\netcoreapp3.0\Sort.pdb
