@@ -1,0 +1,11 @@
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\obj\Debug\netcoreapp3.0\OOP.csprojAssemblyReference.cache
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfoInputs.cache
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\obj\Debug\netcoreapp3.0\OOP.AssemblyInfo.cs
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.exe
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.deps.json
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.json
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.runtimeconfig.dev.json
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.dll
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\bin\Debug\netcoreapp3.0\OOP.pdb
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\obj\Debug\netcoreapp3.0\OOP.dll
+C:\Users\외부용\Desktop\개발\200118\OOP\OOP\obj\Debug\netcoreapp3.0\OOP.pdb

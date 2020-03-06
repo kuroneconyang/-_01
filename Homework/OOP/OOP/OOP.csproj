@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <AssemblyName>OOP</AssemblyName>
+    <StartupObject>OOP.Program</StartupObject>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\외부용\Desktop\개발\200118\텍스트게임\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
